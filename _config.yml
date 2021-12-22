@@ -54,9 +54,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
-      share: true
-      related: true
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -79,6 +76,6 @@ defaults:
 
 author:
   name     : "Jordan Armstrong"
-  avatar   : "/assets/images/bio-photo.jpg"
+  avatar   : "https://avatars.githubusercontent.com/u/490218?s=96&v=4"
   bio      : "I make things. Sometimes."
   location : "Columbus, OH"
